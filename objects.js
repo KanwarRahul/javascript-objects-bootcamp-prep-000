@@ -5,3 +5,8 @@ function updatePlaylist (obj,artname,songtitle)
   Object.assign({artname:songtitle})
   return playlist
 }
+
+function removeFromPlaylist(playlistobj,artistname)
+{
+  
+}
